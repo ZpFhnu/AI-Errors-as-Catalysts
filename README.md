@@ -20,3 +20,14 @@ Image retrieval utilizes the CLIP model to extract features from images to be re
 ```python
 python image_retrival.py
 ```
+## Dataset
+First, we constructed datasets for celestial bodies, mythical creatures, and masks based on the Taoist perspectives of Heaven, Earth, and Human.
+It encompasses the origin of the universe, the relationship between humans and nature, moral and ethical concepts, . 
+
+These datasets were integrated into the computational model to train AI to have different recognition capabilities under corresponding classifications.
+
+Then, we searched YouTube for 100 daily vlogs across 10 categories, including food, travel, work, shopping, and etc. 
+
+In order to create a dataset representing normal human daily life perspectives.
+
+Finaly, we built a computational model that enables object detection in target images, creates analogical connections with the detection results, and forms the eye of AI.
