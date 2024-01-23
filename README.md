@@ -22,7 +22,7 @@ python image_retrival.py
 ```
 ## Dataset
 First, we constructed datasets for celestial bodies, mythical creatures, and masks based on the Taoist perspectives of Heaven, Earth, and Human.
-It encompasses the origin of the universe, the relationship between humans and nature, moral and ethical concepts, . 
+It encompasses the origin of the universe, the relationship between humans and nature, moral and ethical concepts.  Mythical creatures dataset was generated using midjourny, and the other two datasets were collected from the network can be downloaded from [here](https://drive.google.com/drive/folders/1ptWDjc0I8999jC9eaoNphiGheYBHpxWB?usp=drive_link).
 
 These datasets were integrated into the computational model to train AI to have different recognition capabilities under corresponding classifications.
 
